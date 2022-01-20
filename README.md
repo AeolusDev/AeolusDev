@@ -10,7 +10,7 @@ I'm a newbie JS learner and gamer.
 
 ### Discord Status
 <a href="https://discord.com/users/596293027627270155">
-<img height="80px" src="https://discord.c99.nl/widget/theme-4/596293027627270155.png" />
+<img height="80px" src="https://discord.c99.nl/widget/theme-2/596293027627270155.png" />
 </a>
 
 ### Contact me : 
