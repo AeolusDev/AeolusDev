@@ -15,11 +15,13 @@ I'm a newbie JS learner and gamer.
 
 ### Contact me : 
 
-[<img align="left" alt="phantomcodes.ga" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://admiring-kilby-93def3.netlify.app/)
+[<img align="left" alt="https://admiring-kilby-93def3.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://admiring-kilby-93def3.netlify.app/)
 <a href="https://twitter.com/captaincool6333">
   <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-[<img align="left" alt="Phantom | Instagram" width="22px" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" />](https://www.instagram.com/aeolus_dev/)
+[<img align="left" alt="Aeolus | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />](https://www.instagram.com/aeolus_dev/)
+
+[<img align="left" alt="Discord" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1648391306~hmac=f76e0829f738aa13e3077c38c7b5278d" />](https://discord.com/users/596293027627270155)
 
 </br>
 
