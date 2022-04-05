@@ -21,7 +21,7 @@ I'm a newbie JS learner and gamer.
 </a>
 [<img align="left" alt="Aeolus | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />](https://www.instagram.com/aeolus_dev/)
 
-[<img align="left" alt="Discord" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670157.png?token=exp=1648391306~hmac=f76e0829f738aa13e3077c38c7b5278d" />](https://discord.com/users/596293027627270155)
+[<img align="left" alt="Discord" width="22px" src="https://cdn.discordapp.com/attachments/817295104862847006/960925908909301760/discord.png" />](https://discord.com/users/596293027627270155)
 
 </br>
 
