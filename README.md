@@ -13,6 +13,7 @@ I'm a newbie JS learner and gamer.
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/596293027627270155.png" />
 </a>
 <br>
+
 ### Socials
 
 
@@ -21,13 +22,13 @@ I'm a newbie JS learner and gamer.
   <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 [<img align="left" alt="Aeolus | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />](https://www.instagram.com/aeolus_dev/)
-
-
+</br>
+<br>
 ### Contact me : 
 [<img align="left" alt="Discord" width="22px" src="https://cdn.discordapp.com/attachments/817295104862847006/960925908909301760/discord.png" />](https://discord.com/users/596293027627270155)
 
 [<img align="left" alt="GMail" width="22px" src="https://cdn.discordapp.com/attachments/817295104862847006/981612052600733748/unknown.png?size=48">](mailto:aeolusdeveloper@gmail.com)
-<br>
+</br>
 
 ### Languages and Tools : 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-128.png" />](https://www.w3.org/html/)
