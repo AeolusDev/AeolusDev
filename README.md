@@ -12,8 +12,8 @@ I'm a newbie JS learner and gamer.
 <a href="https://discord.com/users/596293027627270155">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/596293027627270155.png" />
 </a>
+### Socials
 
-### Contact me : 
 
 [<img align="left" alt="https://admiring-kilby-93def3.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://admiring-kilby-93def3.netlify.app/)
 <a href="https://twitter.com/captaincool6333">
@@ -21,8 +21,11 @@ I'm a newbie JS learner and gamer.
 </a>
 [<img align="left" alt="Aeolus | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />](https://www.instagram.com/aeolus_dev/)
 
+
+### Contact me : 
 [<img align="left" alt="Discord" width="22px" src="https://cdn.discordapp.com/attachments/817295104862847006/960925908909301760/discord.png" />](https://discord.com/users/596293027627270155)
 
+[<img align="left" alt="GMail" width="22px" src="https://cdn.discordapp.com/attachments/817295104862847006/981612052600733748/unknown.png?size=48">](mailto:aeolusdeveloper@gmail.com)
 </br>
 
 ### Languages and Tools : 
