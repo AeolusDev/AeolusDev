@@ -1,5 +1,10 @@
 ### Hi, I'm [Aeolus](https://admiring-kilby-93def3.netlify.app/) 👋
 I'm a newbie JS learner and gamer.
+`🎂` Age: ||15||
+`👫` Male
+`🛠️` Contributor In Autocode Developers
+Discord bot: https://top.gg/bot/905703656471552021
+Website: https://admiring-kilby-93def3.netlify.app/
 
 [![Website](https://img.shields.io/website?label=Aeolus&style=for-the-badge&url=https://admiring-kilby-93def3.netlify.app/)](https://admiring-kilby-93def3.netlify.app/)
 
