@@ -55,6 +55,6 @@ Website: https://admiring-kilby-93def3.netlify.app/
 <details>
   <summary>:zap: GitHub Stats</summary>
 </br>
-<img align="center" alt="Aeolus's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=captaincool6333&&show_icons=true&theme=tokyonight&layout=compact" />
+<img align="center" alt="Aeolus's GitHub Stats" src="https://github-readme-stats-eight-pink.vercel.app/api?username=AeolusDev&&show_icons=true&theme=tokyonight&layout=compact" />
 </br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=captaincool6333&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Aeolus" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=AeolusDev&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Aeolus" />
