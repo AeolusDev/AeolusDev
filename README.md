@@ -24,6 +24,10 @@ Website: https://admiring-kilby-93def3.netlify.app/
 </a>
 <br>
 
+### DevCard
+<a href="https://app.daily.dev/AeolusDev"><img src="https://github.com/AeolusDev/AeolusDev/blob/main/devcard.svg" width="400" alt="AeolusDev's Dev Card"/></a>
+<br>
+
 ### Socials
 
 
