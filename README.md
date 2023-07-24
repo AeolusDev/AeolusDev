@@ -32,9 +32,7 @@ Website: https://admiring-kilby-93def3.netlify.app/
 
 
 [<img align="left" alt="https://admiring-kilby-93def3.netlify.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://admiring-kilby-93def3.netlify.app/)
-<a href="https://twitter.com/captaincool6333">
-  <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+[<img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](https://twitter.com/captaincool6333)
 <br>
 ### Contact me : 
 [<img align="left" alt="Discord" width="22px" src="https://cdn.discordapp.com/attachments/817295104862847006/960925908909301760/discord.png" />](https://discord.com/users/596293027627270155)
