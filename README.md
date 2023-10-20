@@ -9,9 +9,9 @@ I'm a newbie JS learner and gamer.
 <br>
 Discord bot: https://top.gg/bot/905703656471552021
 <br>
-Website: https://admiring-kilby-93def3.netlify.app/
+Website: [https://aeolusdev.netlify.app/](https://aeolusdev.netlify.app/)
 
-[![Website](https://img.shields.io/website?label=Aeolus&style=for-the-badge&url=https://admiring-kilby-93def3.netlify.app/)](https://admiring-kilby-93def3.netlify.app/)
+[![Website](https://img.shields.io/website?label=Aeolus&style=for-the-badge&url=https://admiring-kilby-93def3.netlify.app/)](https://aeolusdev.netlify.app/)
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me? [Email: aeolusdeveloper@gmail.com](aeolusdeveloper@gmail.com)
