@@ -1,4 +1,4 @@
-### Hi, I'm [Aeolus](https://admiring-kilby-93def3.netlify.app/) 👋
+### Hi, I'm [Aeolus](https://aeolusdev.netlify.app/) 👋
 I'm a newbie JS learner and gamer.
 <br>
 `🎂` Age: 15
