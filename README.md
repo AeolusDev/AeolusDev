@@ -11,7 +11,9 @@ Discord bot: https://top.gg/bot/905703656471552021
 <br>
 Website: [https://aeolusdev.netlify.app/](https://aeolusdev.netlify.app/)
 
-[![Website](https://img.shields.io/website?label=Aeolus&style=for-the-badge&url=https://admiring-kilby-93def3.netlify.app/)](https://aeolusdev.netlify.app/)
+[![Website](https://img.shields.io/website?label=Aeolus&style=for-the-badge&url=https://aeolusdev.netlify.app/)](https://aeolusdev.netlify.app/)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAeolusDev&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%238900FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me? [Email: aeolusdeveloper@gmail.com](aeolusdeveloper@gmail.com)
