@@ -11,13 +11,17 @@ Discord bot: https://top.gg/bot/905703656471552021
 <br>
 Website: [https://aeolusdev.netlify.app/](https://aeolusdev.netlify.app/)
 
-[![Website](https://img.shields.io/website?label=Aeolus&style=for-the-badge&url=https://aeolusdev.netlify.app/)](https://aeolusdev.netlify.app/)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAeolusDev&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%238900FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 - 😄 Pronouns: He/Him
 - 📫 How to reach me? [Email: aeolusdeveloper@gmail.com](aeolusdeveloper@gmail.com)
 
+<br>
+<br>
+
+[![Website](https://img.shields.io/website?label=Aeolus&style=for-the-badge&url=https://aeolusdev.netlify.app/)](https://aeolusdev.netlify.app/)
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAeolusDev&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%238900FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<img src="https://img.shields.io/github/followers/AeolusDev.svg?style=social&label=Follow&maxAge=2592000">
 ---
 
 ### Discord Status
@@ -37,9 +41,13 @@ Website: [https://aeolusdev.netlify.app/](https://aeolusdev.netlify.app/)
 [<img align="left" alt="Twitter" width="23px" src="assets/317720_social media_tweet_twitter_social_icon.png" />](https://twitter.com/captaincool6333)
 <br>
 ### Contact me : 
-[<img align="left" alt="Discord" width="22px" src="assets/8197841_discord_social network_communication_interaction_message_icon.png" />](https://discord.com/users/596293027627270155)
+[<img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.com/users/596293027627270155)
 
-[<img align="left" alt="GMail" width="22px" src="assets/7089163_gmail_google_icon.png">](mailto:aeolusdeveloper@gmail.com)
+[<img align="left" alt="Proton" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">](mailto:captaincool6333@proton.me)
+
+[<img align="left" alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/user/captaincool6333)
+
+[<img align="left" alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:aeolusdeveloper@gmail.com)
 </br>
 
 ### Languages and Tools : 
