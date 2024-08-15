@@ -1,14 +1,5 @@
 ### Hi, I'm [Aeolus](https://aeolusdev.netlify.app/) 👋
-I'm a newbie JS learner and gamer.
-<br>
-`🎂` Age: 15
-<br>
-`👫` Male
-<br>
-`🛠️` Contributor In Autocode Developers
-<br>
-Discord bot: https://top.gg/bot/905703656471552021
-<br>
+
 Website: [https://aeolusdev.netlify.app/](https://aeolusdev.netlify.app/)
 
 - 😄 Pronouns: He/Him
@@ -28,10 +19,6 @@ Website: [https://aeolusdev.netlify.app/](https://aeolusdev.netlify.app/)
 <a href="https://discord.com/users/596293027627270155">
 <img height="80px" src="https://discord.c99.nl/widget/theme-2/596293027627270155.png" />
 </a>
-<br>
-
-### DevCard
-<a href="https://app.daily.dev/AeolusDev"><img src="https://github.com/AeolusDev/AeolusDev/blob/main/devcard.svg" width="400" alt="AeolusDev's Dev Card"/></a>
 <br>
 
 ### Socials
