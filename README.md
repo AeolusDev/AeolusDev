@@ -1,30 +1,22 @@
 ### Hi, I'm [Aeolus](https://aeolusdev.netlify.app/) 👋
 
-Website: [https://aeolusdev.netlify.app/](https://aeolusdev.netlify.app/)
+Website: [https://aeolusweb.pages.dev/](https://aeolusweb.pages.dev/)
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me? [Email: aeolusdeveloper@gmail.com](aeolusdeveloper@gmail.com)
 
 <br>
-<br>
 
-[![Website](https://img.shields.io/website?label=Aeolus&style=for-the-badge&url=https://aeolusdev.netlify.app/)](https://aeolusdev.netlify.app/)
+[![Website](https://img.shields.io/website?label=Aeolus&style=for-the-badge&url=https://aeolusweb.pages.dev/)](https://aeolusweb.pages.dev/)
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAeolusDev&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%238900FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://img.shields.io/github/followers/AeolusDev.svg?style=social&label=Follow&maxAge=2592000">
 ---
 
-### Discord Status
-<a href="https://discord.com/users/596293027627270155">
-<img height="80px" src="https://discord.c99.nl/widget/theme-2/596293027627270155.png" />
-</a>
-<br>
-
 ### Socials
 
 
-[<img align="left" alt="https://admiring-kilby-93def3.netlify.app/" width="22px" src="assets/web.png"/>](https://admiring-kilby-93def3.netlify.app/)
+[<img align="left" alt="https://admiring-kilby-93def3.netlify.app/" width="22px" src="assets/web.png"/>](https://aeolusweb.pages.dev/)
 [<img align="left" alt="Twitter" width="23px" src="assets/317720_social media_tweet_twitter_social_icon.png" />](https://twitter.com/captaincool6333)
 <br>
 ### Contact me : 
